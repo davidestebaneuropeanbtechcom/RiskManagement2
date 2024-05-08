@@ -1,6 +1,6 @@
 _schema-version: '3.1'
 ID: risk-management
-version: 3.0.0
+version: 3.0.1
 description: "Template for the Learning Journey Building side-by-side extensions on SAP BTP"
 parameters:
   enable-parallel-deployments: true
